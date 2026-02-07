@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "cf-fastipv4",
 	"main": "src/index.ts",
-	"compatibility_date": "2026-02-05",
+	"compatibility_date": "2026-02-07",
 	"observability": {
 		"enabled": true
 	},
