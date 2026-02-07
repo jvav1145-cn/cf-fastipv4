@@ -18,7 +18,7 @@ async function handleCron(env: Env) {
     }
 
     const sourceDomain = 'cf.090227.xyz';
-    const targetDomain = 'cf.hw.072103.xyz';
+    const targetDomain = 'cf.hw.jvav1145.top';
 
     // 1. Resolve IPs
     console.log(`Resolving IPs for ${sourceDomain}...`);
