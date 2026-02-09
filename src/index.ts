@@ -17,7 +17,7 @@ async function handleCron(env: Env) {
         return;
     }
 
-    const sourceDomain = 'saas.sin.fan';
+    const sourceDomain = 'jvav11451337.cf.090227.xyz';
     const targetDomain = 'cf.hw.jvav1145.top';
 
     // 1. Resolve IPs
